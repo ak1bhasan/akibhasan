@@ -10,8 +10,8 @@ Aspiring software developer and current student at Metropolitan University with 
 
 ## 📈 GitHub Stats
 
-![Akib's GitHub stats](https://github-readme-stats.vercel.app/api?ak1bhasan&show_icons=true&theme=graywhite&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?ak1bhasan&layout=compact&theme=graywhite)
+![Akib's GitHub stats](https://github-readme-stats.vercel.app/api?username=ak1bhasan&show_icons=true&theme=graywhite&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ak1bhasan&layout=compact&theme=graywhite)
 
 ## 📬 Connect with Me
 
